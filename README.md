@@ -33,7 +33,7 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Repository URL: [https://github.com/Subject6735/3-column-preview-card-component](https://github.com/Subject6735/3-column-preview-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
