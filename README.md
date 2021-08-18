@@ -34,7 +34,7 @@ Mobile:
 ### Links
 
 - Repository URL: [https://github.com/Subject6735/3-column-preview-card-component](https://github.com/Subject6735/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://subject6735.github.io/3-column-preview-card-component/](https://subject6735.github.io/3-column-preview-card-component/)
 
 ## My process
 
