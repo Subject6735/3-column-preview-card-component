@@ -53,7 +53,7 @@ body {
     text-transform: uppercase;
 }
 
-.card article {
+.card .text {
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
     padding-bottom: 80px;
@@ -65,7 +65,7 @@ body {
     display: flex;
 }
 
-.card div {
+.card .btn {
     background-color: hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
     
@@ -83,7 +83,7 @@ body {
     align-items: center;
 }
 
-.card div:hover {
+.card .btn:hover {
     cursor: pointer;
 }
 
@@ -93,11 +93,11 @@ body {
     border-bottom-right-radius: 0px;
 }
 
-.sedan div {
+.sedan .btn {
     color: hsl(31, 77%, 52%);
 }
 
-.sedan div:hover {
+.sedan .btn:hover {
     color: hsl(0, 0%, 95%);
     background-color: hsl(31, 77%, 52%);
 }
@@ -107,11 +107,11 @@ body {
     border-radius: 0px;
 }
 
-.suv div {
+.suv .btn {
    color: hsl(184, 100%, 22%); 
 }
 
-.suv div:hover {
+.suv .btn:hover {
     color: hsl(0, 0%, 95%);
     background-color: hsl(184, 100%, 22%);
 }
@@ -122,11 +122,11 @@ body {
     border-bottom-left-radius: 0px;
 }
 
-.luxury div {
+.luxury .btn {
     color: hsl(179, 100%, 13%);
 }
 
-.luxury div:hover {
+.luxury .btn:hover {
     color: hsl(0, 0%, 95%);
     background-color: hsl(179, 100%, 13%);
 }
